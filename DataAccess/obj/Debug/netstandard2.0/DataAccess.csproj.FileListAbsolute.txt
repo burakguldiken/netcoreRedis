@@ -1,0 +1,4 @@
+C:\Users\ben burak\source\repos\netcoreRedis\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\ben burak\source\repos\netcoreRedis\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ben burak\source\repos\netcoreRedis\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\ben burak\source\repos\netcoreRedis\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Core": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "R_ENVIRONMENT": "development"
+      }
+    }
+  }
+}

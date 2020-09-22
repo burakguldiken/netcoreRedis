@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLT6vbgK88/6ZZ9CgrLfkGTJvPetBv4bJRXRSEdivTTVUMu2ORde+RA4q8kF/hSW2/OkofUSpUujxg8CrW7jpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ben burak\\source\\repos\\netcoreRedis\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

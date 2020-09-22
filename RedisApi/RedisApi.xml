@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RedisApi</name>
+    </assembly>
+    <members>
+        <member name="M:RedisApi.Controller.RedisController.Get_Redis_User(System.Int64)">
+            <summary>
+            Get user by id from redis database 
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
