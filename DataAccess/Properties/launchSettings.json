@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DataAccess": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "R_ENVIRONMENT": "development"
+      }
+    }
+  }
+}

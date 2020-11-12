@@ -1,0 +1,13 @@
+C:\Users\ben burak\source\repos\netcoreRedis\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\ben burak\source\repos\netcoreRedis\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\ben burak\source\repos\netcoreRedis\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\ben burak\source\repos\netcoreRedis\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\ben burak\source\repos\netcoreRedis\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\ben burak\source\repos\netcoreRedis\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\ben burak\source\repos\netcoreRedis\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\ben burak\source\repos\netcoreRedis\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\ben burak\source\repos\netcoreRedis\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\ben burak\source\repos\netcoreRedis\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\ben burak\source\repos\netcoreRedis\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\ben burak\source\repos\netcoreRedis\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\ben burak\source\repos\netcoreRedis\Business\bin\Debug\netstandard2.0\Environment\development.json
